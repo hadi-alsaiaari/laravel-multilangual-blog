@@ -1,0 +1,96 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class. Some of these rules have multiple versions such
+    | as the size rules. Feel free to tweak each of these messages here.
+    |
+    */
+
+    'dashboard' => 'Dashboard',
+    'settings' => 'Settings',
+    'translations'=>'Translations',
+    'users'=>'Users',
+    'add_user'=>'Add User',
+    'edit_user'=>'Edit User',
+    'not activated' => 'not activated',
+    'admin'=>'Admin',
+    'writer'=>'Writer',
+    'add user'=>'add user',
+    'main category'=>'main category',
+    'posts'=>'Posts',
+    'add post'=>'Add post',
+    'categories'=>'Categories',
+    'add category'=>'Add category',
+    'image'=>'Image',
+    'status'=>'Status',
+    'title'=>'Title',
+    'content'=>'Content',
+    'name'=>'Name',
+    'email'=>'Email',
+    'password'=>'Password',
+    'logout'=>'Logout',
+    'table_users'=>'Users Table ',
+    'search' => 'Search:',
+    'lengthMenu' => 'Show _MENU_ entries',
+    'info' => 'Showing  _START_ to _END_ of _TOTAL_ entries',
+    'paginate' => [
+        'first' => 'First',
+        'last' => 'Last',
+        'next' => 'Next',
+        'previous' => 'Previous',
+    ],
+    'infoEmpty' => 'There are no items to display',
+    'infoFiltered' => '(filtered by _MAX_ elements)',
+    'zeroRecords' => 'No matching results',
+    'username'=>'Username',
+    'date_registered'=>'Date Registered',
+    'role'=>'Role',
+    'status'=>'Status',
+    'options'=>'Options',
+    'deleted_user_true'=>'The user has been deleted successfully.',
+    'deleted_user_false'=>'An error occurred while deleting the user.',
+    'success_delete'=>'Successfully deleted!',
+    'success_error'=>'Delete operation failed!',
+    'success_create' => 'Successfully Added!',
+    'success_update' => 'Successfully updated!',
+    'submit'=>'Submit',
+    'no_status'=>'No job',
+    'save'=>'Save',
+    'update'=>'Update',
+    'cancell'=>'Cancell',
+    'table_categories'=>'Categories Table',
+    'category'=>'Category',
+    'parent'=>'Parent',
+    'deleted_category_true'=>'The category has been deleted successfully.',
+    'deleted_category_false'=>'An error occurred while deleting the category.',
+    'sure_delete'=>'هل أنت متأكد من حذف العنصر؟ سوف يتم نقله إلى سلة المهملات.',
+    'main_category'=>'Main Category',
+    'no_title'=>'No Title',
+    'add_category'=>'Add Category',
+    'edit_category'=>'Edit Category',
+    'edit_post'=>'Edit post',
+    'category_name'=>'Category name',
+    'tags'=>'Tags',
+    'smallDesc'=>'Small description',
+    'create_category_before'=>'There are not categories. Please add one category at least to write post.',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+
+];
